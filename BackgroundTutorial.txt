@@ -1,0 +1,42 @@
+                                                    _____  _   _  _____   ___   ___  ___  ___  _                                     
+                                                   |_   _|| | | ||_   _| / _ \ | _ \|_ _|/   \| |                                    
+                                                     | |  | |_| |  | |  | (_) ||   / | | | - || |__                                  
+                                                     |_|   \___/   |_|   \___/ |_|_\|___||_|_||____|                                 
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+                     --------------------------------------------------------------------------------------------------------------- 
+                    |   _ We divide the game into 2 levels: basic and advanced.                                                     |
+                    |                                                                                                               |
+                    |   _ At both levels of play. Players only need to find pairs of cells containing same                          |
+                    |   characters in a network of many squares. When you find two similar images, they will                        |
+                    |   disappear and you will be calculated. The goal of the game is to find all pairs before the time is over.    |
+                    |                                                                                                               |
+                    |   _ Any matching pair must be:                                                                                |
+                    |                                                                                                               |
+                    |   + Characters on the two cells must be identical.                                                            |
+                    |                                                                                                               |
+                    |   + The maching pattern must be one of the below motifs:                                                      |
+                    |   *	I Matching                                                                                                |
+                    |   *	L Matching                                                                                                |
+                    |   *	U Matching                                                                                                |
+                    |   *	Z Matching                                                                                                |
+                    |                                                                                                               |
+                    |   _ Basic level: You only need to follow the above steps until there is no squares                            |
+                    |   on the screen within the allowed time. You will win, the system will record the                             |
+                    |   time you complete the game and determine your ranking.                                                      |
+                    |                                                                                                               |
+                    |   - Advanced level (Stages difficulty increase) : After players finish the previous round.                    |
+                    |   By sliding the neighboring cells (from the game stage) into the newly emptied spaces                        |
+                    |   in a particular direction (left to right, up to down, etc.) after a matched.                                |
+                    |                                                                                                               |
+                    |   - Also, when you cannot find the current solution. You can click the key "Help".                            |
+                    |   The system will suggest you the next path.                                                                  |
+                    |                                                                                                               |
+                    |                                                   GOOD LUCK !                                                 |
+                     --------------------------------------------------------------------------------------------------------------- 
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                     
+                                                                   PRESS SPACE TO RETURN                                             
